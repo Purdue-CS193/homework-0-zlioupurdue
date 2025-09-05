@@ -1,4 +1,4 @@
-# Zi-He Liou's First CS193 Homework :D
+# Zi-He(Johnnie) Liou's First CS193 Homework :D
 
 Things I like about CS19300
 - I can use github for the first time (I'm very concerned about my future as a CS major lol)
